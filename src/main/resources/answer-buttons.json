@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Далее",
+    "callbackData": "-next"
+  },
+  {
+    "id": 2,
+    "name": "Назад",
+    "callbackData": "-back-topics"
+  }
+]

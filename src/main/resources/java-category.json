@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "ООП",
+    "callbackData": "category-java-oop"
+  },
+  {
+    "id": 2,
+    "name": "Примитивы",
+    "callbackData": "category-java-primitives"
+  },
+  {
+    "id": 3,
+    "name": "Классы и методы",
+    "callbackData": "category-java-classes"
+  },
+  {
+    "id": 4,
+    "name": "Коллекции",
+    "callbackData": "category-java-collections"
+  },
+  {
+    "id": 5,
+    "name": "Устройство Java",
+    "callbackData": "category-java-structure"
+  },
+  {
+    "id": 6,
+    "name": "Назад",
+    "callbackData": "back-languages"
+  }
+]

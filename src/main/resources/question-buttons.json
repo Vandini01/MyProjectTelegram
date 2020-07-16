@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Ответ",
+    "callbackData": "-answer"
+  },
+  {
+    "id": 2,
+    "name": "Далее",
+    "callbackData": "-next"
+  },
+  {
+    "id": 3,
+    "name": "Назад",
+    "callbackData": "-back-topics"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "Дайте определение понятию iterator",
+    "answer": "Итератор — интерфейс, предоставляющий доступ к элементам коллекции",
+    "callbackData": "question-java-collections-1"
+  },
+  {
+    "id": 2,
+    "question": "Чем отличается ArrayList от LinkedList?",
+    "answer": "ArrayList это список, реализованный на основе массива, а LinkedList — это классический связный список, основанный на объектах с ссылками между ними",
+    "callbackData": "question-java-collections-2"
+  }
+]

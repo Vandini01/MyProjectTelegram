@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "Какие есть модификаторы доступа в Java?",
+    "answer": "public, private, protected, Модификатор по умолчанию",
+    "callbackData": "question-java-classes-1"
+  },
+  {
+    "id": 2,
+    "question": "Что такое package level access?",
+    "answer": "Это когда нет явного модификатора доступа. Среднее между protected и public. К элементу имеют доступ все классы из его пакета.",
+    "callbackData": "question-java-classes-2"
+  },
+  {
+    "id": 3,
+    "question": "Можно ли перегрузить статический метод?",
+    "answer": "Да",
+    "callbackData": "question-java-classes-3"
+  }
+]

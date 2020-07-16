@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "Что такое приведение типов?",
+    "answer": "Приведение типов - преобразование значения одного типа в значение другого типа.",
+    "callbackData": "question-java-primitives-1"
+  },
+  {
+    "id": 2,
+    "question": "Какие примитивные типы есть в Java?",
+    "answer": "В Java есть 8 примитивных типов, которые делят на 4 группы, вот они: Целые числа - byte, short, int, long. Числа с плавающей точкой (иначе вещественные) - float, double. Логический - boolean.",
+    "callbackData": "question-java-primitives-2"
+  },
+  {
+    "id": 3,
+    "question": "Что такое Autoboxing?",
+    "answer": "Автоупаковка — это механизм неявной инициализации объектов классов-оберток (Byte, Short, Character, Integer, Long, Float, Double) значениями соответствующих им исходных примитивных типов (соотв. byte , short , char , int , long , float , double ), без явного использования конструктора класса.",
+    "callbackData": "question-java-primitives-3"
+  }
+]
